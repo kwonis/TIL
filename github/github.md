@@ -1,9 +1,9 @@
 # Github 사용법 및 Markdown
 
 ## Markdown
-\```\
+\`\`\`
 백틱 3개를 사용하여 코드블럭 생성 가능
-\```\
+\`\`\`
 링크와 이미지 업로드 방법
 
 \[텍스트]\(URL)
@@ -37,6 +37,6 @@ local  변경시
 
 작업중 commit 만 바꼈을 경우
 git pull 을 통해 가져올 수 있다.
-.gitignore를 작성해 긱에 제외 할 수 있다
+.gitignore를 작성해 Git에서 제외 할 수 있다
 
 
