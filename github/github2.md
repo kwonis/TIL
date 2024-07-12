@@ -67,5 +67,16 @@ git rm --cached 이름
 git restore --staged 이름(commit이 존재하는 저장소에서)
 ```
 
-# commit 수정
+# commit 수정 (직전)
+- commit 메시지 수정
+- commit 전체 수정 
+```
+git commit --amend
+명령어는 똑같다. 타이밍에 따라 달라진다.
+```
+commit id 가 변하기에 협업중이라면 혼자 사용하지 않아야 한다.
+
 # github 프로필 만들기
+1. 프로잭트 협업
+1. 개인 포트폴리오
+
