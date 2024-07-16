@@ -108,5 +108,13 @@ print(('b' and 'a') in vowels)  - . 'a'in vowels #False
 딕셔너리는 key를 확인
 
 
+## 백준 풀다가
+
+max()
+sum()
+mix()
+를 사용해서 함수 사용가능 
+
+
 
 
