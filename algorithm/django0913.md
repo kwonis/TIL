@@ -87,3 +87,6 @@ def index(request):
     return render(request,'articles/index.html')
 ```
 프로젝트 폴더안에 templates 폴더생성
+
+가상환경 종료 명령어 
+$ deactivate
